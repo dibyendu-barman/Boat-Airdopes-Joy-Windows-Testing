@@ -22,7 +22,7 @@ This repository contains test cases, test execution reports, and automation scri
 | Parameter | Value |
 |------------|---------|
 | Device | Boat Airdopes Joy |
-| OS | Windows 11 |
+| OS | Windows 10 |
 | Bluetooth Version | 5.x |
 | Test Tool | Python |
 | Framework | Pytest |
